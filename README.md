@@ -1,4 +1,9 @@
-# custom-endpoint-keycloak
+# Custom Endpoint no Keycloak
+
+-------
+
+Fiz um vídeo dessa implementação, caso queria ver o resultado final: 
+https://www.youtube.com/watch?list=TLGGW5wFF-mydQ4wODAzMjAyNQ&v=WxN899vDRz8
 
 ### create mvn project
 ```sh
