@@ -1,0 +1,4 @@
+com/meusistema/keycloak/authenticator/PinResetPasswordResource.class
+com/meusistema/keycloak/App.class
+com/meusistema/keycloak/authenticator/PinResetPasswordProvider.class
+com/meusistema/keycloak/authenticator/PinResetPasswordFactory.class
